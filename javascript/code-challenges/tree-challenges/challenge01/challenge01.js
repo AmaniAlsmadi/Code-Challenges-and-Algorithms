@@ -1,5 +1,5 @@
 // Write here the code challenge solution
-'use struct';
+'use strict';
 
 class Node {
 constructor (value, left=null, right=null) {
